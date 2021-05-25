@@ -1,6 +1,6 @@
 {
-    "root": "pokemonshowdown.com",
-    "client": "play.pokemonshowdown.com",
+    "root": "hfs-master.herokuapp.com",
+    "client": "hfs-client.herokuapp.com",
     "dex": "dex.pokemonshowdown.com",
     "replays": "replay.pokemonshowdown.com",
     "users": "pokemonshowdown.com/users"

@@ -33,7 +33,7 @@ Config.customcolors = {
 	'zarel': 'mizzy'
 };
 /*** Begin automatically generated configuration ***/
-Config.version = "0.11.2 (420468c6)";
+Config.version = "0.11.2 (1a269c12)";
 
 Config.routes = {
 	root: 'hfs-master.herokuapp.com',
